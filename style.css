@@ -45,8 +45,8 @@ ul
 }
 .padd-15 
 {
-    /* padding-left: 15px; */
-    /* padding-right: 15px; */
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .container 
 {
@@ -790,15 +790,28 @@ h3.my-profession
       height: 40px;
       background-color: greenyellow;
   }
+.top {
+      height: 100px;
+  }
+ 
   .one {
       background-color: #00c3ff;
+      border-radius: 5%;
+      margin-right: 20px;
+      margin-left: 20px;
   }
   .two {
       background-color: aqua;
+      border-radius: 5%;
+      margin-right: 20px;
   }
   .three {
       background-color: cadetblue;
+      border-radius: 5%;
+      margin-right: 20px;
   }
   .four {
       background-color: darkgrey;
+      border-radius: 5%;
+      margin-right: 20px;
   }
